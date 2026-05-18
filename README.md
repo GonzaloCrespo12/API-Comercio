@@ -24,6 +24,11 @@ El proyecto respeta una arquitectura multicapa estricta, separando responsabilid
 * **`security`**: Filtros y utilidades para la generación y validación de tokens JWT.
 
 ---
+## Entidades 
+
+![Diagrama de Entidades](./Comercio-API.png)
+
+---
 
 ## 📌 Reglas de Negocio Implementadas
 Se implementaron exitosamente las 3 reglas de negocio obligatorias en la capa de Servicios:
